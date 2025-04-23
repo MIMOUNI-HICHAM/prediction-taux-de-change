@@ -30,9 +30,5 @@ Pour la date **11/08/2020**, le modèle prédit un taux de change de **1.17607**
 
 > ⚠️ Les fichiers de données bruts (`data.xlsx`) ne sont pas inclus pour des raisons de confidentialité.
 
-## 🔗 Remarque
-Le fichier R original ayant été perdu, ce dépôt contient un **résumé du projet sous forme de présentation PDF**. Il pourra être enrichi ultérieurement si les fichiers sources sont retrouvés ou reconstruits.
-
----
 
 ✨ N'hésitez pas à forker ou à me contacter pour plus de détails ou contributions !
